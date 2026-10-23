@@ -1,0 +1,14 @@
+C:\Users\Student_13\Documents\Lab06_Potapov\bin\Debug\net10.0\Lab06_Potapov.exe
+C:\Users\Student_13\Documents\Lab06_Potapov\bin\Debug\net10.0\Lab06_Potapov.deps.json
+C:\Users\Student_13\Documents\Lab06_Potapov\bin\Debug\net10.0\Lab06_Potapov.runtimeconfig.json
+C:\Users\Student_13\Documents\Lab06_Potapov\bin\Debug\net10.0\Lab06_Potapov.dll
+C:\Users\Student_13\Documents\Lab06_Potapov\bin\Debug\net10.0\Lab06_Potapov.pdb
+C:\Users\Student_13\Documents\Lab06_Potapov\obj\Debug\net10.0\Lab06_Potapov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_13\Documents\Lab06_Potapov\obj\Debug\net10.0\Lab06_Potapov.AssemblyInfoInputs.cache
+C:\Users\Student_13\Documents\Lab06_Potapov\obj\Debug\net10.0\Lab06_Potapov.AssemblyInfo.cs
+C:\Users\Student_13\Documents\Lab06_Potapov\obj\Debug\net10.0\Lab06_Potapov.csproj.CoreCompileInputs.cache
+C:\Users\Student_13\Documents\Lab06_Potapov\obj\Debug\net10.0\Lab06_Potapov.dll
+C:\Users\Student_13\Documents\Lab06_Potapov\obj\Debug\net10.0\refint\Lab06_Potapov.dll
+C:\Users\Student_13\Documents\Lab06_Potapov\obj\Debug\net10.0\Lab06_Potapov.pdb
+C:\Users\Student_13\Documents\Lab06_Potapov\obj\Debug\net10.0\Lab06_Potapov.genruntimeconfig.cache
+C:\Users\Student_13\Documents\Lab06_Potapov\obj\Debug\net10.0\ref\Lab06_Potapov.dll
